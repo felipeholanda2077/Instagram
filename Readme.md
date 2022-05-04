@@ -4,18 +4,17 @@
    </a>
 </p>
 
-<h1 align="center">Sobre o Projeto</h1>
-
-<h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos</h4>
-
-<br>
-<br>
-
 <p align="center">ÍNDICE...</p>
 <p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
 <a href="#Imagem">Imagem</a> • 
 <a href="#Tecnologias--">Tecnologias</a> • 
 <a href="#Ferramentas">Ferramentas</a></p>
+
+<br>
+
+<h1 align="center">Sobre o Projeto</h1>
+
+<h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos</h4>
 
 <br>
 <br>
