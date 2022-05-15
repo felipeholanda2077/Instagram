@@ -16,8 +16,6 @@
 
 <h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos</h4>
 
-<br>
-<br>
 <p align="center">------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 align="center">Imagem</h1>
