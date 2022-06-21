@@ -16,6 +16,12 @@
 
 <h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos</h4>
 
+<br>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
+</p>
+
 <p align="center">------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 align="center">Imagem</h1>
