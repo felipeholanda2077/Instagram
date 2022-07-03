@@ -22,6 +22,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 
+<br>
+
 <p align="center">------------------------------------------------------------------------------------------------------------------------------</p>
 
 <h1 align="center">Imagem</h1>
