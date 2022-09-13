@@ -4,7 +4,6 @@
    </a>
 </p>
 
-
 <p align="center">ÍNDICE...</p>
 <p align="center"><a href="#sobre-o-projeto">Sobre</a> • 
 <a href="#Imagem">Imagem</a> • 
@@ -43,7 +42,6 @@
   ### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
-
 
 
   <h1 align="center">Siga-me</h1>
