@@ -14,7 +14,7 @@
 
 <h1 align="center">Sobre o Projeto</h1>
 
-<h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos</h4>
+<h4 align="center">Site responsavel pela página de login do instragam para usuarios antigos e novos com resposividade basica para dispositivos mobiles</h4>
 
 <br>
 
